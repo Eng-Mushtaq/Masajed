@@ -1,0 +1,5 @@
+{
+  "name": "Masajidna",
+  "description": "A donation platform for mosques in Riyadh, featuring real-time needs tracking, QR scanning, and secure payments.",
+  "requestFramePermissions": []
+}
